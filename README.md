@@ -64,33 +64,6 @@ Open your browser and visit http://127.0.0.1:8000/ to use the app.
 Visit http://127.0.0.1:8000/admin/ to access the admin panel (log in with the superuser credentials).
 
 
-
-Project Structure
-todo_project/
-├── todo/
-│   ├── templates/
-│   │   ├── todo/
-│   │   │   ├── base.html
-│   │   │   ├── task_list.html
-│   │   │   ├── task_form.html
-│   │   │   ├── task_confirm_delete.html
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── forms.py
-│   ├── models.py
-│   ├── urls.py
-│   ├── views.py
-├── todo_project/
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   ├── wsgi.py
-├── manage.py
-├── requirements.txt
-├── README.md
-
 Dependencies
 
 django: Web framework for the backend.
