@@ -1,3 +1,5 @@
+Created by Wan Nurqistina binti Rosmin
+
 To-Do List Application
 A simple, user-friendly To-Do List web application built with Django and styled with Bootstrap 5. The application allows users to create, view, update, and delete tasks, with a responsive interface suitable for both desktop and mobile devices.
 Project Overview
